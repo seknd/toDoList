@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(26, 18, 11);
+    color: rgb(213, 206, 163);
+}
+
+h1{
+    text-align: center;
+}
+
+.todo{
+    width: 150px;
+    height: 32px;
+    background-color: rgb(82, 83, 82);
+    color: rgb(213, 206, 163);
+    border: solid 1px rgb(213, 206, 163);
+    border-radius: 25px;
+}
+.todo2{
+    width: 150px;
+    height: 34px;
+    background-color: rgb(82, 83, 82);
+    color: rgb(213, 206, 163);
+    border: solid 1px rgb(213, 206, 163);
+    border-radius: 25px;
+}
+
+.add{
+    width: 50px;
+    height: 35px;
+    color: rgb(4, 236, 62);
+    background-color: rgb(82, 83, 82);
+    border: 1px solid ;
+    border-radius: 25px;
+}
+
+.center{
+    text-align: center;
+}
+
+.div{
+    text-align: center;
+    
+}
+
+.delete-todo-button{
+    width: 50px;
+    height: 25px;
+    color: rgb(240, 0, 0);
+    background-color: rgb(82, 83, 82);
+    border: 1px solid;
+    border-radius: 25px;
+    margin-right: 1px;
+}
+
+.taskDiv{
+    margin-top: 10px;
+}
+
+.higer-todo-button{
+    
+    height: 25px;
+    color: yellow;
+    background-color: rgb(82, 83, 82);
+    border: 1px solid;
+    border-radius: 25px;
+}
+p{
+    margin-top: 2px;
+}
+
+.taskDiv2 {
+    margin-top: 15px;
+}
+.important{
+    margin-top: 10px;
+    border-left: 1px solid;
+    border-right: 1px solid;
+    margin-left: 30dvw;
+    margin-right: 30vw;
+    border-color: yellow;
+    border-radius: 15px;
+}
